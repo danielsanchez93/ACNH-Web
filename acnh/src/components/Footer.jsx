@@ -7,7 +7,7 @@ class Footer extends React.Component{
             <footer className="bg-light text-center text-lg-start">
                 <div className="text-center p-3">
                     Made by 
-                    <a className="text-dark" href="https://github.com/danielsanchez93"> Puni</a>
+                    <a className="text-dark" href="https://github.com/danielsanchez93"> Puni 💙</a>
                 </div>
           </footer>
         )
